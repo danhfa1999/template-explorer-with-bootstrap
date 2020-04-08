@@ -3,7 +3,7 @@
    background-size: cover;
    background-position: center -100px;
    background-repeat: no-repeat;
-   height:150px;
+   height:700px;
 
 }
 .testBox{
@@ -15,8 +15,9 @@
    border:1px solid #000;
 }
 .back{
-   background-color:teal;
-   height:200px;
+   background-color:#000;
+   height:500px;
+   color:#fff;
 }
 .w-60{
    width:60%!important;
